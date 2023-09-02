@@ -1,12 +1,17 @@
-# Daniel Sykora
+# Daniel Sýkora
 
-Ahoj, vítej na mém GitHubovém profilu! ✨  
+Ahoj, vítej na mém GitHubovém profilu ✨  
 
-🧑‍💻 Zkušenosti:
-* Python
-* JavaScript, TypeScript, Node.JS
+### Moje zkušenosti
+- Web development
+   - HTML, (S)CSS
+   - JavaScript/TypeScript
+   - Svelte
+   - Node.JS
+   - PHP
+   - Nette Framework
 * Godot Engine
-
-🔰 Učím se:  
-* PHP
 * SQL
+* Linux
+
+I use WSL btw
